@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "rustinventory",
+    "name": "Rust Inventory",
+    "description": "Инвентарь в стиле Rust для Minecraft 1.12.2",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "authorList": ["RustModDev"]
+  }
+]
